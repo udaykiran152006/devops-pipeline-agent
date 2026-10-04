@@ -5,3 +5,4 @@ chromadb
 python-dotenv
 requests
 hindsight-client==0.10.1
+hindsight-client==0.10.1
